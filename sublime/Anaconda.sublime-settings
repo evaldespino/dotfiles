@@ -1,0 +1,17 @@
+{
+    "python_interpreter": "C:\\Program Files\\Python38-32\\python.exe",
+    "auto_formatting": true,
+    "auto_formatting_timeout": 5,
+    "autoformat_ignore":
+    [
+        "E309"
+    ],
+    "pep8_ignore":
+    [
+        "E309",
+        "E501"
+    ],
+    "pep8_max_line_length": 90,
+    "anaconda_linter_underlines": false,
+    "display_signatures": false,
+}
