@@ -1,0 +1,23 @@
+{
+    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Predawn",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "terminal.integrated.fontSize": 14,
+    "workbench.activityBar.visible": true
+}
